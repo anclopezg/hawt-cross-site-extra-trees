@@ -28,7 +28,7 @@ An Extra Trees regressor is trained on one-minute meteorological data and RMS vo
 
 ## Data provenance
 
-* Cajicá: experimental campaign of the Universidad Distrital Francisco José de Caldas.
+* Cajicá: experimental campaign of the Universidad Distrital Francisco José de Caldas; the weather station and the turbine-voltage acquisition were built in-house around an ESP32 microcontroller and a Raspberry Pi (one-minute records).
 * João Pessoa: Meteoagro MA 3500 automatic weather station (https://www.meteoagro.co/products/detail/23/), station GITUD_UFPB (UFPB).
 
 ## Reproducing
