@@ -1,0 +1,4 @@
+,MAE,MSE,RMSE,R2,RMSLE,MAPE
+Réplica: 10-fold aleatorio (paper),0.1973,0.6965,0.8336,0.7878,0.2584,0.2675
+Réplica: hold-out aleatorio 30 %,0.183,0.643,0.8019,0.8034,0.2498,0.2428
+Cronológico: 10 folds (obs. reales),0.5148,1.6516,1.2681,0.3853,0.4407,0.7098

@@ -1,0 +1,67 @@
+{
+  "target": "V_G1 (V_RMS)",
+  "features": [
+    "xang",
+    "velU",
+    "velV",
+    "air_dens",
+    "HR",
+    "hour",
+    "xmag_disc",
+    "TEMP_norm"
+  ],
+  "angle": "grados; velU=mag*cos, velV=mag*sin",
+  "altitude_train_m": 2558.0,
+  "train_period": [
+    "2022-06-17 22:37:00",
+    "2022-08-19 19:49:00"
+  ],
+  "cv_chronological": {
+    "MAE": 0.3801,
+    "MSE": 1.5203,
+    "RMSE": 1.218,
+    "R2": 0.4382,
+    "RMSLE": 0.3693,
+    "MAPE": 0.7355
+  },
+  "ranges_p1_p99": {
+    "xang": [
+      4.0,
+      356.0
+    ],
+    "velU": [
+      -3.795132824545222,
+      3.5823483411908232
+    ],
+    "velV": [
+      -1.8846486696626068,
+      4.468003896715073
+    ],
+    "air_dens": [
+      0.8583524253969761,
+      0.9189063883879444
+    ],
+    "HR": [
+      33.0,
+      64.0
+    ],
+    "hour": [
+      0.0,
+      23.0
+    ],
+    "xmag_disc": [
+      0.0,
+      5.18
+    ],
+    "TEMP_norm": [
+      0.0,
+      30.5
+    ]
+  },
+  "versions": {
+    "python": "3.11.15",
+    "sklearn": "1.9.1",
+    "pandas": "3.1.0"
+  },
+  "seed": 123
+}

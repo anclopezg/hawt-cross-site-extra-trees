@@ -1,0 +1,54 @@
+{
+  "jpa_registros": 9229,
+  "jpa_rango": [
+    "2025-03-27 17:05:00",
+    "2025-09-05 13:51:00"
+  ],
+  "intervalo_min": 10.0,
+  "viento_medio_jpa": 1.66,
+  "viento_medio_cajica": 1.83,
+  "pct_jpa_viento_ge_3_5": 11.6,
+  "pct_cajica_viento_ge_3_5": 10.7,
+  "pct_jpa_T_ge_23": 94.0,
+  "pct_cajica_T_ge_23": 26.9,
+  "ood_por_variable": {
+    "xang": 0.1,
+    "velU": 3.5,
+    "velV": 1.8,
+    "air_dens": 100.0,
+    "HR": 88.7,
+    "hour": 0.0,
+    "xmag_disc": 1.8,
+    "TEMP_norm": 1.0
+  },
+  "ood_alguna": 100.0,
+  "sensibilidad": {
+    "B": {
+      "V_max": 11.047,
+      "V_media": 0.403,
+      "V_p90_max": 19.0,
+      "P_max_W": 1.22,
+      "E_max_Wh_intervalo": 0.203,
+      "E_total_Wh": 15.267,
+      "pct_V>1": 12.58
+    },
+    "C": {
+      "V_max": 12.704,
+      "V_media": 0.387,
+      "V_p90_max": 19.0,
+      "P_max_W": 1.614,
+      "E_max_Wh_intervalo": 0.269,
+      "E_total_Wh": 16.455,
+      "pct_V>1": 11.507
+    },
+    "D": {
+      "V_max": 11.54,
+      "V_media": 0.423,
+      "V_p90_max": 16.0,
+      "P_max_W": 1.332,
+      "E_max_Wh_intervalo": 0.222,
+      "E_total_Wh": 15.227,
+      "pct_V>1": 12.872
+    }
+  }
+}

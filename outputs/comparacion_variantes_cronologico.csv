@@ -1,0 +1,5 @@
+,MAE,RMSE,R2,RMSLE,MAPE
+"A. 8 variables del notebook (xejz, humedad suelo, date)",0.5148,1.2681,0.3853,0.4407,0.7098
+"B. Tabla IV: xang, velU, velV, densidad, HR, hora, xmag_disc, TEMP_norm",0.3801,1.218,0.4382,0.3693,0.7355
+C. B sin densidad del aire,0.3788,1.2222,0.4338,0.3699,0.7446
+"D. continuas, sin discretizar ni densidad",0.3813,1.2074,0.4482,0.3681,0.7318

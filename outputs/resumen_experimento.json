@@ -1,0 +1,18 @@
+{
+  "filas_crudas": 150060,
+  "marcas_unicas": 59758,
+  "filas_rejilla_1min": 90553,
+  "filas_reales": 59758,
+  "rango": [
+    "2022-06-17 22:37:00",
+    "2022-08-19 19:49:00"
+  ],
+  "pct_xmag_disc_positivo": 10.72,
+  "pct_temp_norm_positivo": 26.88,
+  "esquema": "TimeSeriesSplit(10, gap=1440), puntuado solo en observaciones reales",
+  "versiones": {
+    "python": "3.11.15",
+    "sklearn": "1.9.1",
+    "pandas": "3.1.0"
+  }
+}
